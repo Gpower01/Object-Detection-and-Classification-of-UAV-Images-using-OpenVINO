@@ -20,7 +20,7 @@ We used [person-vehicle-bike-detection-crossroad-1016](https://docs.openvinotool
 
 ### Install Intel® Distribution of OpenVINO™ toolkit
 
-For your convenientce, you can utilize the classroom workspace, or refer to the relevant instructions for your operating system for this step.
+For your convenience, you can utilize the classroom workspace, or refer to the relevant instructions for your operating system for this step.
 
 - [Linux/Ubuntu](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html)
 - [Mac](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_macos.html)
