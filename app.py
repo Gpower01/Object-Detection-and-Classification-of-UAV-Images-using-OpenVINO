@@ -5,7 +5,7 @@ from inference import Network
 
 INPUT_STREAM = "./resource/test_video.mp4"
 CPU_EXTENSION = "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"
-DET_MODEL = "/home/workspace/models/person-vehicle-bike-detection-crossroad-1016.xml"
+DET_MODEL = "./models/person-vehicle-bike-detection-crossroad-1016.xml"
 
 CLASSES = ['Other', 'Vehicle', 'Pedestrian', 'Bike']
 COLOR = [(255, 181, 51), (255, 51, 190), (66, 255, 51), (51, 134, 255)]
