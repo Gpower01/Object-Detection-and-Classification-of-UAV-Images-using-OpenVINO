@@ -62,6 +62,10 @@ For your convenience, you can utilize the classroom workspace, or refer to the r
  - This application can be extended to identify the different objects in nature
  - Can be used in Traffic signal control through vehicles and pedestrians detection
  - Tuning the application can also be used for intruders detection in boarders
+ - Aerial Mapping, 3D Modelling and Photogrammetry 
+ - Applying this model to capture 3D Land Terrain Models and Visualisation for flood monitoring
+ - Applying this model to construction site investigation and boarder security 
+ - Using the UAV data acquisition and photogrammetry to enhance sustainability in Oil and Gas data exploration 
 
 ### Contributors
 [God'spower Onyenanu](https://github.com/Gpower01)
